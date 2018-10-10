@@ -1,2 +1,2 @@
 # invie-github
-Probando github @platzi
+Probando github
